@@ -38,6 +38,7 @@ The project is straightforward to install, use & modify:
    * https://api.data.amsterdam.nl/dcatd/datasets/j9-Ddad9JWYPrQ/purls/7
 * Run the Jupyter notebook (.ipynb) in your preferred Python IDE
 * Explore the Tableau visuals by visiting the public directory and/or use the provided Tableau .twbx files to play with the visualizations on your own
+   * https://public.tableau.com/app/profile/arek.tarnawski/viz/WhatDoRichDitch/WhatDoRichDitch 
 
 ## 5. Copyright
 
