@@ -18,7 +18,7 @@ By combining the two, it is possible to see the amount of waste produced per cap
 
 The main technologies used here are Python and Tableau Public. The raw data file has been imported and wrangled in Jupyter Lab notebook using Pandas, clean .csv files exported & imported & joined in Tableau for visualizations.
 
-The Jupyter notebook includes the sstatistical hypothesios test based on the p-value of a one-sided test for a relation between the waste per capita/household and district's/personal level of income. Results vary depending on the approach.
+The Jupyter notebook includes the statistical hypothesis test based on the p-value of a one-sided test for a relation between the waste per capita/household and district's/personal level of income. Results vary depending on the approach.
 
 ## 3. Challenges identified
 
