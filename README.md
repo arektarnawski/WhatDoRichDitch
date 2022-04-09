@@ -9,8 +9,8 @@ This project is a part of Ironhack Data Analytics Full Time Bootcamp course.
 
 The Amsterdam City Council (*Gemeente Amsterdam*) has an immense directory of open-source datasets related to the city of Amsterdam. Two of these datasets are related to:
 * Underground waste containers' pickups (ID of the container, amount of waste collected, date & time, location, type of waste, etc.)
-  * 
-* Each distericts' socio-economic data (population and number of households in each district, average personal / household income for each district)
+   
+* Each districts' socio-economic data (population and number of households in each district, average personal / household income for each district)
 
 By combining the two, it is possible to see the amount of waste produced per capita or per household in the function of average wealth.
 
