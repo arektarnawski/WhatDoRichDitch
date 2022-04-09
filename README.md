@@ -25,7 +25,7 @@ The Jupyter notebook includes the statistical hypothesis test based on the p-val
 There have been three major challenges during this project:
 * As with most raw data files, the waste pickups file is not free of issues. There has been a significant portion of data missing the attributes necessary for proper work, and given a time crunch, a decision has been made to remove them (approx. 25% of the data). 
    * It is theoretically possible to map-back some of the features (e.g. the district location) using the available geo-spatial data, but that would require some additional coding.
-*  One of the Amsterdam districts (Amsterdam Centrum) is available in the dataset, but it has a particular feature - most of the actual waste pickups there do not go through the underground containers, but through a street pickups instead. 
+*  One of the Amsterdam districts (Amsterdam Centrum) is available in the dataset, but it has a particular drawback - most of the actual waste pickups there do not go through the underground containers, but through street pickups instead. 
    *  While the data has still been included in the project & visualized, an attempt has been made to exclude it during the hypothesis testing not to skew the results.
 *  Combining two datasets: initially they have been joined on a row level using the district_id, but this led to a big duplication and redundancy of district data (citizens, household, income, etc) which was troublesome to work with in Tableau. 
    * The solution used was not merging the data on a row level in Python, but to create a relation between the two in Tableau directly.
